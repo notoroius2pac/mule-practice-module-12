@@ -1,0 +1,4 @@
+#Key and value types
+#Thu Jan 07 15:01:00 IST 2021
+keyType=java.lang.String
+valueType=java.lang.Object

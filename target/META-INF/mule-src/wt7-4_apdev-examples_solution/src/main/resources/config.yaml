@@ -1,0 +1,20 @@
+http:
+  port: "8082"
+
+sfdc:
+  username: "your-username"
+  password: "your-password"
+  token: "your-token"
+
+file:
+  accountsDir: "F:/My folder/NJC Labs Internship/NJC Labs documents/APDevFundamentals4.3_studentFiles_30oct2020/resources"
+
+db:
+  host: "iltdb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
+  
+  
+  
